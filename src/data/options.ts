@@ -1,0 +1,13 @@
+export const diseaseTypes = ['1 型糖尿病', '2 型糖尿病', '妊娠糖尿病', '糖耐量异常/糖前期', '其他'];
+export const genders = ['女性', '男性', '其他/不便透露'];
+export const durations = ['新诊断', '1 年以内', '1-5 年', '5 年以上'];
+export const historyOptions = ['高血压', '高血脂', '肾病', '心血管疾病', '无'];
+export const medicationOptions = ['胰岛素', '二甲双胍', '磺脲类', 'GLP-1', 'SGLT2', '暂未用药', '未知'];
+export const specialGroupOptions = ['孕期', '老年', '儿童', '肾病患者', '无'];
+export const lifestyleOptions = ['久坐', '夜班', '经常外食', '运动规律', '饮食不规律'];
+export const measurementScenes = ['空腹', '餐前', '餐后 1 小时', '餐后 2 小时', '睡前', '夜间', 'CGM 当前值'];
+export const cgmTrends = ['快速上升', '缓慢上升', '平稳', '缓慢下降', '快速下降', '未知'];
+export const stapleOptions = ['少量', '适中', '较多', '未知'];
+export const sugarOptions = ['有', '无'];
+export const intensityOptions = ['低强度', '中等强度', '高强度', '未运动'];
+export const symptomOptions = ['口渴', '乏力', '头晕', '出汗', '心慌', '恶心', '呕吐', '腹痛', '意识模糊', '无症状'];
